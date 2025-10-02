@@ -5,7 +5,7 @@ namespace Latypova
     class Programm
     {
         static void Main()
-        {/*
+        {
             Console.WriteLine("\tУпражнение 1");
             int[] num_list = { 1, 2, 3, 4, 5, 9, 7, 8, 9, 10 };
             bool flag = true;
@@ -102,7 +102,7 @@ namespace Latypova
             {
                 Console.WriteLine("Некорректно введены данные");
             }
-            */
+            
             string[] Toys = { "Barbie doll","Hello Kitty",  "Car", "Ball", "Hot Wheels", "Train", "Hello Kitty" };
             int count = 0;
             foreach (string toy in Toys)

@@ -3,7 +3,7 @@
     class Programm
     {
         static void Main(string[] args)
-        {/*
+        {
             Console.WriteLine("\tУпражнение 4.1");
             Console.Write("Введите число от 1 до 365:");
             string str_day_of_year_1 = Console.ReadLine();
@@ -37,7 +37,7 @@
             else
             {
                 Console.WriteLine("Недопустимое значение");
-            }*/
+            }
             Console.WriteLine("\tДомашнее задание 4.1");
             Console.Write("Введите число от 1 до 365:");
             string str_day = Console.ReadLine();
